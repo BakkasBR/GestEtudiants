@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.mycompany.gestetudiants;
+package com.esma.gestetudiants;
 
 
 /**
@@ -35,7 +35,6 @@ public class NewJFrame1 extends javax.swing.JFrame {
         jButton4 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(739, 494));
 
         jPanel1.setBackground(new java.awt.Color(153, 204, 255));
 
